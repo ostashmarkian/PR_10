@@ -1,0 +1,18 @@
+# Visual Studio: кеш, збірки, налаштування користувача
+.vs/
+x64/
+Debug/
+Release/
+*.ipch
+*.VC.db
+*.VC.opendb
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.user
+*.tlog
+*.lastbuildstate
+TestResults/
+# тимчасові файли Word
+~$*

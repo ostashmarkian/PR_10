@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Folder Name="/Рівень А/">
+    <Project Path="Lab_10_1_A/Lab_10_1_A.vcxproj" Id="590120e8-9154-4876-a295-532ff4f68f6d" />
+    <Project Path="Lab_10_2_A/Lab_10_2_A.vcxproj" Id="8881fd00-0c0e-4db3-8723-27aaadade9fa" />
+    <Project Path="UnitTest10_1_A/UnitTest10_1_A.vcxproj" Id="f1871e92-ef79-4668-a591-b7b0dec4c1d7" />
+    <Project Path="UnitTest10_2_A/UnitTest10_2_A.vcxproj" Id="d66a101e-4954-4714-b7a4-d4ef1c5347cf" />
+  </Folder>
+  <Folder Name="/Рівень В/">
+    <Project Path="Lab_10_1_B/Lab_10_1_B.vcxproj" />
+    <Project Path="Lab_10_2_B/Lab_10_2_B.vcxproj" />
+    <Project Path="UnitTest10_1_B/UnitTest10_1_B.vcxproj" />
+    <Project Path="UnitTest10_2_B/UnitTest10_2_B.vcxproj" />
+  </Folder>
+</Solution>
